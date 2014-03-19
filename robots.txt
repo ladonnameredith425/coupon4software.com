@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /sec/
+Sitemap: http://www.coupon4software.com/sitemap.xml 
